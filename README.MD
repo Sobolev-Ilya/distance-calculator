@@ -3,4 +3,4 @@ Application algorithm:
 2. Calculate distance between N and N+1 geographic point from file (longitude and latitude)
 3. Writes distances for each month in new file
 
-For running type in command line "java -jar distanceCalculator.jar <path_to_file_for_read> <path_to_file_for_output>"
+For running type in command line "java -jar distanceCalculator.jar [path_to_file_for_read] [path_to_file_for_output]"
