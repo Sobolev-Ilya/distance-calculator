@@ -1,9 +1,0 @@
-data\set\InputRecord.class
-main\impl\FileWorker.class
-main\DistanceCalculator.class
-main\impl\DistanceCalculatorImpl.class
-data\set\GeographicPoint.class
-main\CSVUtils.class
-data\set\OutputRecord.class
-main\InputOutputAdapter.class
-main\Main.class

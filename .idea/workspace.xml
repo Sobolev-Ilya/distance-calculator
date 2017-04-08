@@ -2,151 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a81e4c0-8522-4b3c-adfe-8ecd2f0ac25f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distanceCalculator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/data/set/GeographicPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/data/set/InputRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/data/set/OutputRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/CSVUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/DistanceCalculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/InputOutputAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/impl/DistanceCalculatorImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/impl/FileWorker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/main/impl/DistanceCalculatorTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/main/impl/FileWorkerTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_ethz_ganymed_ganymed_ssh2_build210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1_alpha_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mks_api_mksapi_jar_4_10_9049.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugin_tools_maven_plugin_annotations_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_impl_2_0_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_api_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_manager_plexus_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_accurev_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_bazaar_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_clearcase_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvs_commons_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsexe_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsjava_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_git_commons_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_gitexe_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_hg_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_integrity_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_jazz_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_perforce_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_starteam_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svn_commons_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svnexe_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_synergy_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_tfs_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_vss_1_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_doxia_tools_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_maven_surefire_common_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_booter_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_1_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_lib_cvsclient_20060125.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_entry_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_html_report_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_maven_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__uk_org_lidalia_sysout_over_slf4j_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distance-calculator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newFile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/data/set/GeographicPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/data/set/InputRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/data/set/OutputRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/CSVUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/DistanceCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/InputOutputAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/impl/DistanceCalculatorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/impl/FileWorker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/main/impl/DistanceCalculatorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/main/impl/FileWorkerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/input_example_for_test.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/test_example.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/test_example2.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081309/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081309/main.impl/DistanceCalculatorImpl.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081309/main.impl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081310/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/DistanceCalculatorImpl.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/FileWorker.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081311/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/DistanceCalculatorImpl.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/FileWorker.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081312/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/DistanceCalculatorImpl.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/FileWorker.java.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/input_example_for_test.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/test_example.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/test_example2.ssv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_example.ssv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/data/set/GeographicPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/data/set/InputRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/data/set/OutputRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/CSVUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/DistanceCalculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/InputOutputAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/impl/DistanceCalculatorImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/impl/FileWorker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081309/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081309/main.impl/DistanceCalculatorImpl.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081309/main.impl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081310/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/DistanceCalculatorImpl.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/FileWorker.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081310/main.impl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081311/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/DistanceCalculatorImpl.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/FileWorker.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081311/main.impl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081312/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/DistanceCalculatorImpl.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/FileWorker.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pit-reports/201704081312/main.impl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/input_example_for_test.ssv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/main/impl/DistanceCalculatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/main/impl/FileWorkerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/test_example.ssv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/test_example2.ssv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -984,7 +871,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21215352" sideWeight="0.7349666" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1202,6 +1089,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="47" column="21" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="47" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
