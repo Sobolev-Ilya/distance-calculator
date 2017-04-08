@@ -1,7 +1,6 @@
-Application read .csv file
-1. загружаешь себе эту программку куда-то distanceCalculator.jar
-2. рядом с ней кидаешь файл с данными в том формате в котором я тебе написал
-3. открываешь консольку и переходишь в каталог где лежат программа  и исходный файл
-4. вводишь в консольку java -jar distanceCalculator.jar имя_исходного_файла имя_файла_куда_будут_записаны_результаты
-имя_файла_куда_будут_записаны_результаты - может не существовать, он сам его создаст
-но будь аккуратен, если этот файл уже существовал (имя_файла_куда_будут_записаны_результаты) то все данные из него будут затёрты новыми
+Application algorithm:
+1. Reads CSV file in expected format (look at Example.csv file)
+2. Calculate distance between N and N+1 geographic point from file (longitude and latitude)
+3. Writes distances for each month in new file
+
+For running type in command line "java -jar distanceCalculator.jar <path_to_file_for_read> <path_to_file_for_output>"
