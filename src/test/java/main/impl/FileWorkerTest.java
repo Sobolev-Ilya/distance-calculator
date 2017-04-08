@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.ResourceBundle;
 
 import static org.testng.Assert.*;
 
@@ -26,7 +27,7 @@ public class FileWorkerTest {
 
     @Test
     public void testGetRecordsFromFile() throws Exception {
-        List<InputRecord> recordList = fileWorker.getRecordsFromFile("test_example.ssv");
+        List<InputRecord> recordList = fileWorker.getRecordsFromFile("Example.csv");
         assertEquals(recordList.size(), 4);
 
         InputRecord firstRecord = recordList.get(0);
