@@ -6,3 +6,5 @@ Application algorithm:
 3. Writes distances for each month in new file
 
 For running type in terminal "java -jar distanceCalculator.jar [path_to_file_for_read] [path_to_file_for_output]"
+
+Requires installed Java Runtime Environment 8
